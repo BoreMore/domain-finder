@@ -46,3 +46,5 @@ The code for pdf2txt.py is a tool of pdfminer.six. To install pdfminer.six, use
 ```
 pip install pdfminer.six
 ```
+
+The pdf used as a sample is a copyright-free encyclopedia titled The Handy Cyclopedia of Things Worth Knowing by Joseph Triemens. It can be acquired from https://www.gutenberg.org/ebooks/20190.

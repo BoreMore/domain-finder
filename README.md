@@ -41,7 +41,7 @@ python appraise.py input.txt output.txt
 ```
 where input.txt is the available domain names file and output.txt is the file to output the appraised domain names to. In the example, the input file is available.txt and the output file is appraisal.txt.
 
-### Acknowledgements 
+## Acknowledgements 
 The code for pdf2txt.py is a tool of pdfminer.six. To install pdfminer.six, use 
 ```
 pip install pdfminer.six
